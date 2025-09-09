@@ -11,6 +11,6 @@ package com.umg.universidadproyecto;
 public class UniversidadProyecto {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Inicializando 08/09/25 la planificación del proyecto!");
     }
 }
